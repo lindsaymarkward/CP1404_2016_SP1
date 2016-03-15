@@ -20,6 +20,11 @@ def main():
 
 
 def add_one_to(value):
+    """
+    Add one to a value
+    :param value: value to add one to
+    :return: one more than the value
+    """
     return value + 1
 
 

@@ -3,4 +3,5 @@ CP1404 in-class demos from 2016 SP1
 
 Demo code from *James Cook University*, **Lindsay Ward**
 
-Python 3 code for demos
+Python 3 code for in-class demos. 
+Students love this stuff :)
